@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729363149 source:c:\users\user\desktop\ufabc\ufabc_docs\materias\pe\exercicios_moodle\ep-1\ep_1-exercício 08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
