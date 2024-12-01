@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733010080 source:c:\users\user\desktop\ufabc\ufabc_docs\materias\pe\exercicios_moodle\ep-6\ep_6-exercício 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
